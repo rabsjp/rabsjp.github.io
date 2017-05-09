@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JP Rabanal</title>
-    <link>jrabanal.github.io/tags/</link>
+    <link>rabsjp.github.io/tags/</link>
     <description>Recent content in Tags on JP Rabanal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 JP Rabanal</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="jrabanal.github.io/tags/" rel="self" type="application/rss+xml" />
+    <atom:link href="rabsjp.github.io/tags/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>jrabanal.github.io/tags/academic/</link>
+      <link>rabsjp.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/tags/academic/</guid>
+      <guid>rabsjp.github.io/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pecuniary</title>
-      <link>jrabanal.github.io/tags/pecuniary/</link>
+      <link>rabsjp.github.io/tags/pecuniary/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/tags/pecuniary/</guid>
+      <guid>rabsjp.github.io/tags/pecuniary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Price Dispersion</title>
-      <link>jrabanal.github.io/tags/price-dispersion/</link>
+      <link>rabsjp.github.io/tags/price-dispersion/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/tags/price-dispersion/</guid>
+      <guid>rabsjp.github.io/tags/price-dispersion/</guid>
       <description></description>
     </item>
     

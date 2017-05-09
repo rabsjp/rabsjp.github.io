@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JP Rabanal on JP Rabanal</title>
-    <link>jrabanal.github.io/</link>
+    <link>rabsjp.github.io/</link>
     <description>Recent content in JP Rabanal on JP Rabanal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 JP Rabanal</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="jrabanal.github.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="rabsjp.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Do uncertainty traps occur?</title>
-      <link>jrabanal.github.io/talk/liberal/</link>
+      <link>rabsjp.github.io/talk/liberal/</link>
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/talk/liberal/</guid>
+      <guid>rabsjp.github.io/talk/liberal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pecuniary externalities in centralized and decentralized market formats: An experiment</title>
-      <link>jrabanal.github.io/project/pecuniary/</link>
+      <link>rabsjp.github.io/project/pecuniary/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/project/pecuniary/</guid>
+      <guid>rabsjp.github.io/project/pecuniary/</guid>
       <description>&lt;p&gt;We test in a controlled laboratory environment whether traders in a decentralizedmarket internalize the impact of their actions on market prices better than in a cen-tralized market.  In the model, traders choose a production level, constrained by theproduction possibilities frontier.  Subsequently, each trader receives a random shockthat makes production of only one type of good profitable.  In this environment, pe-cuniary externalities arise because traders value the scarce good more than is sociallyoptimal and thus do not internalize the impact of their production decisions on marketprices.  We find that decentralized markets are able to slightly mitigate the extent ofpecuniary externalities, but not eliminate them.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On the dynamic stability of a Price Dispersion Model</title>
-      <link>jrabanal.github.io/talk/example-talk/</link>
+      <link>rabsjp.github.io/talk/example-talk/</link>
       <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/talk/example-talk/</guid>
+      <guid>rabsjp.github.io/talk/example-talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the dynamic Stability of a Price Dispersion Model</title>
-      <link>jrabanal.github.io/project/price-dispersion/</link>
+      <link>rabsjp.github.io/project/price-dispersion/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/project/price-dispersion/</guid>
+      <guid>rabsjp.github.io/project/price-dispersion/</guid>
       <description>&lt;p&gt;This paper studies the evolutionary stability of a unique Nash equilibrium in a price dis-persion model (Burdett and Judd, 1983) using gradient dynamics. The numerical solution tothe partial differential equation that governs the evolution of prices shows that the stationaryequilibrium is not a Nash Equilibrium and that it differs from the cyclical behavior predictedby another family of dynamics, such as replicator and logit, in a continuous action space&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Does competition affect truth-telling? An experiment with rating agencies</title>
-      <link>jrabanal.github.io/publication/cra/</link>
+      <link>rabsjp.github.io/publication/cra/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/publication/cra/</guid>
+      <guid>rabsjp.github.io/publication/cra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the evolution of continuous types: replicator and gradient, Dynamic Games and Applications, Vol. 7(1), pp. 76--92, 2017.</title>
-      <link>jrabanal.github.io/publication/repgrad/</link>
+      <link>rabsjp.github.io/publication/repgrad/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/publication/repgrad/</guid>
+      <guid>rabsjp.github.io/publication/repgrad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution of markets a simulation with centralized, posted offer and decentralized formats Journal of Evolutionary Economics, Forthcoming, 2016</title>
-      <link>jrabanal.github.io/publication/markets/</link>
+      <link>rabsjp.github.io/publication/markets/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/publication/markets/</guid>
+      <guid>rabsjp.github.io/publication/markets/</guid>
       <description></description>
     </item>
     

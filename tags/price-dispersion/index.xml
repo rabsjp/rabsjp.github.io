@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Price Dispersion on JP Rabanal</title>
-    <link>jrabanal.github.io/tags/price-dispersion/</link>
+    <link>rabsjp.github.io/tags/price-dispersion/</link>
     <description>Recent content in Price Dispersion on JP Rabanal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 JP Rabanal</copyright>
     <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="jrabanal.github.io/tags/price-dispersion/" rel="self" type="application/rss+xml" />
+    <atom:link href="rabsjp.github.io/tags/price-dispersion/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>On the dynamic Stability of a Price Dispersion Model</title>
-      <link>jrabanal.github.io/project/price-dispersion/</link>
+      <link>rabsjp.github.io/project/price-dispersion/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>jrabanal.github.io/project/price-dispersion/</guid>
+      <guid>rabsjp.github.io/project/price-dispersion/</guid>
       <description>&lt;p&gt;This paper studies the evolutionary stability of a unique Nash equilibrium in a price dis-persion model (Burdett and Judd, 1983) using gradient dynamics. The numerical solution tothe partial differential equation that governs the evolution of prices shows that the stationaryequilibrium is not a Nash Equilibrium and that it differs from the cyclical behavior predictedby another family of dynamics, such as replicator and logit, in a continuous action space&lt;/p&gt;
 </description>
     </item>
