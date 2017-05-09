@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pecuniary on JP Rabanal</title>
+    <link>jrabanal.github.io/tags/pecuniary/</link>
+    <description>Recent content in Pecuniary on JP Rabanal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 JP Rabanal</copyright>
+    <lastBuildDate>Tue, 09 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="jrabanal.github.io/tags/pecuniary/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pecuniary externalities in centralized and decentralized market formats: An experiment</title>
+      <link>jrabanal.github.io/project/pecuniary/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>jrabanal.github.io/project/pecuniary/</guid>
+      <description>&lt;p&gt;We test in a controlled laboratory environment whether traders in a decentralizedmarket internalize the impact of their actions on market prices better than in a cen-tralized market.  In the model, traders choose a production level, constrained by theproduction possibilities frontier.  Subsequently, each trader receives a random shockthat makes production of only one type of good profitable.  In this environment, pe-cuniary externalities arise because traders value the scarce good more than is sociallyoptimal and thus do not internalize the impact of their production decisions on marketprices.  We find that decentralized markets are able to slightly mitigate the extent ofpecuniary externalities, but not eliminate them.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

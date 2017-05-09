@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on JP Rabanal</title>
+    <link>jrabanal.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on JP Rabanal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 JP Rabanal</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="jrabanal.github.io/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On the evolution of continuous types: replicator and gradient, Dynamic Games and Applications, Vol. 7(1), pp. 76--92, 2017.</title>
+      <link>jrabanal.github.io/publication/repgrad/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>jrabanal.github.io/publication/repgrad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of markets a simulation with centralized, posted offer and decentralized formats Journal of Evolutionary Economics, Forthcoming, 2016</title>
+      <link>jrabanal.github.io/publication/markets/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>jrabanal.github.io/publication/markets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
