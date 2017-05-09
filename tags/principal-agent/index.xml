@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principal Agent on Jean Paul Rabanal</title>
+    <link>rabsjp.github.io/tags/principal-agent/</link>
+    <description>Recent content in Principal Agent on Jean Paul Rabanal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 JP Rabanal</copyright>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="rabsjp.github.io/tags/principal-agent/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Can Competition Aggravate Moral Hazard? A Multi-Principal-Agent Experiment</title>
+      <link>rabsjp.github.io/project/principal-agent/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>rabsjp.github.io/project/principal-agent/</guid>
+      <description>&lt;p&gt;We conduct a principal-agent experiment and demonstrate that a monopolist agent protects the interest of a (robotized) principal better than when three agents compete to provide a service (project recommendation). The agents have perfect information regarding project types and can provide either positive or negative recommendations (continue/stop). An agent can increase revenues only via a positive project recommendation to the principal, who always trusts the agent. The insight from our experiment can be applied to a number of financial environments (e.g. money-managers and rating agencies) and provides additional evidence on how market structure shapes individual incentives and affects equilibrium outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/rx51ff8fh1ug0k8/FundsPaper0101.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

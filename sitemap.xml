@@ -32,6 +32,15 @@
     
     <url>
     
+      <loc>rabsjp.github.io/project/principal-agent/</loc>
+      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>rabsjp.github.io/project/price-dispersion/</loc>
       <lastmod>2017-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -145,6 +154,16 @@
     <url>
     
       <loc>rabsjp.github.io/tags/price-dispersion/</loc>
+      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>rabsjp.github.io/tags/principal-agent/</loc>
       <lastmod>2017-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

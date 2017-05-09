@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JP Rabanal on JP Rabanal</title>
+    <title>Jean Paul Rabanal on Jean Paul Rabanal</title>
     <link>rabsjp.github.io/</link>
-    <description>Recent content in JP Rabanal on JP Rabanal</description>
+    <description>Recent content in Jean Paul Rabanal on Jean Paul Rabanal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 JP Rabanal</copyright>
@@ -26,6 +26,8 @@
       
       <guid>rabsjp.github.io/project/pecuniary/</guid>
       <description>&lt;p&gt;We test in a controlled laboratory environment whether traders in a decentralizedmarket internalize the impact of their actions on market prices better than in a cen-tralized market.  In the model, traders choose a production level, constrained by theproduction possibilities frontier.  Subsequently, each trader receives a random shockthat makes production of only one type of good profitable.  In this environment, pe-cuniary externalities arise because traders value the scarce good more than is sociallyoptimal and thus do not internalize the impact of their production decisions on marketprices.  We find that decentralized markets are able to slightly mitigate the extent ofpecuniary externalities, but not eliminate them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/t8lwpkp3vu4kk77/PE506.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -39,12 +41,26 @@
     </item>
     
     <item>
+      <title>Can Competition Aggravate Moral Hazard? A Multi-Principal-Agent Experiment</title>
+      <link>rabsjp.github.io/project/principal-agent/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>rabsjp.github.io/project/principal-agent/</guid>
+      <description>&lt;p&gt;We conduct a principal-agent experiment and demonstrate that a monopolist agent protects the interest of a (robotized) principal better than when three agents compete to provide a service (project recommendation). The agents have perfect information regarding project types and can provide either positive or negative recommendations (continue/stop). An agent can increase revenues only via a positive project recommendation to the principal, who always trusts the agent. The insight from our experiment can be applied to a number of financial environments (e.g. money-managers and rating agencies) and provides additional evidence on how market structure shapes individual incentives and affects equilibrium outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/rx51ff8fh1ug0k8/FundsPaper0101.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>On the dynamic Stability of a Price Dispersion Model</title>
       <link>rabsjp.github.io/project/price-dispersion/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>rabsjp.github.io/project/price-dispersion/</guid>
-      <description>&lt;p&gt;This paper studies the evolutionary stability of a unique Nash equilibrium in a price dis-persion model (Burdett and Judd, 1983) using gradient dynamics. The numerical solution tothe partial differential equation that governs the evolution of prices shows that the stationaryequilibrium is not a Nash Equilibrium and that it differs from the cyclical behavior predictedby another family of dynamics, such as replicator and logit, in a continuous action space&lt;/p&gt;
+      <description>&lt;p&gt;This paper studies the evolutionary stability of a unique Nash equilibrium in a price dis-persion model (Burdett and Judd, 1983) using gradient dynamics. The numerical solution tothe partial differential equation that governs the evolution of prices shows that the stationaryequilibrium is not a Nash Equilibrium and that it differs from the cyclical behavior predictedby another family of dynamics, such as replicator and logit, in a continuous action space.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ue343lymqgt9lac/price_rabanalandlee.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
