@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Jean Paul Rabanal</title>
-    <link>rabsjp.github.io/talk/</link>
+    <link>https://rabsjp.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Jean Paul Rabanal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 JP Rabanal</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="rabsjp.github.io/talk/" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Do uncertainty traps occur?</title>
-      <link>rabsjp.github.io/talk/sef/</link>
+      <link>https://rabsjp.github.io/talk/sef/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>rabsjp.github.io/talk/sef/</guid>
+      <guid>https://rabsjp.github.io/talk/sef/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the dynamic stability of a price dispersion model</title>
-      <link>rabsjp.github.io/talk/wehia/</link>
+      <link>https://rabsjp.github.io/talk/wehia/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>rabsjp.github.io/talk/wehia/</guid>
+      <guid>https://rabsjp.github.io/talk/wehia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do uncertainty traps occur?</title>
-      <link>rabsjp.github.io/talk/liberal/</link>
+      <link>https://rabsjp.github.io/talk/liberal/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>rabsjp.github.io/talk/liberal/</guid>
+      <guid>https://rabsjp.github.io/talk/liberal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the dynamic stability of a Price Dispersion Model</title>
-      <link>rabsjp.github.io/talk/example-talk/</link>
+      <link>https://rabsjp.github.io/talk/example-talk/</link>
       <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>rabsjp.github.io/talk/example-talk/</guid>
+      <guid>https://rabsjp.github.io/talk/example-talk/</guid>
       <description></description>
     </item>
     

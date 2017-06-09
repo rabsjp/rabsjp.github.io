@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jean Paul Rabanal</title>
-    <link>rabsjp.github.io/tags/</link>
+    <link>https://rabsjp.github.io/tags/</link>
     <description>Recent content in Tags on Jean Paul Rabanal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 JP Rabanal</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="rabsjp.github.io/tags/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>rabsjp.github.io/tags/academic/</link>
+      <link>https://rabsjp.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>rabsjp.github.io/tags/academic/</guid>
+      <guid>https://rabsjp.github.io/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pecuniary</title>
-      <link>rabsjp.github.io/tags/pecuniary/</link>
+      <link>https://rabsjp.github.io/tags/pecuniary/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>rabsjp.github.io/tags/pecuniary/</guid>
+      <guid>https://rabsjp.github.io/tags/pecuniary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Price Dispersion</title>
-      <link>rabsjp.github.io/tags/price-dispersion/</link>
+      <link>https://rabsjp.github.io/tags/price-dispersion/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>rabsjp.github.io/tags/price-dispersion/</guid>
+      <guid>https://rabsjp.github.io/tags/price-dispersion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Principal Agent</title>
-      <link>rabsjp.github.io/tags/principal-agent/</link>
+      <link>https://rabsjp.github.io/tags/principal-agent/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>rabsjp.github.io/tags/principal-agent/</guid>
+      <guid>https://rabsjp.github.io/tags/principal-agent/</guid>
       <description></description>
     </item>
     
