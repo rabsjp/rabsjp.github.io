@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 JP Rabanal</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Does competition aggravate moral hazard? A multi-principal-agent experiment, Journal of Financial Intermediation, Forthcoming, 2017</title>
+      <link>https://rabsjp.github.io/publication/principalagent/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rabsjp.github.io/publication/principalagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the dynamic stability of a price dispersion model using gradient dynamics, Journal of Economic Dynamics and Control, Forthcoming, 2017</title>
+      <link>https://rabsjp.github.io/publication/pricedispersion/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rabsjp.github.io/publication/pricedispersion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Does competition affect truth-telling? An experiment with rating agencies</title>
