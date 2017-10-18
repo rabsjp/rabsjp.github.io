@@ -11,18 +11,9 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Do uncertainty traps occur?</title>
-      <link>https://rabsjp.github.io/talk/sef/</link>
-      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/talk/sef/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Forecasting games</title>
       <link>https://rabsjp.github.io/talk/liberal/</link>
-      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://rabsjp.github.io/talk/liberal/</guid>
       <description></description>
@@ -34,6 +25,15 @@
       <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://rabsjp.github.io/talk/seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the prevalence of uncertainty traps</title>
+      <link>https://rabsjp.github.io/talk/sef/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rabsjp.github.io/talk/sef/</guid>
       <description></description>
     </item>
     
