@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pecuniary on Jean Paul Rabanal</title>
-    <link>https://rabsjp.github.io/tags/pecuniary/</link>
-    <description>Recent content in Pecuniary on Jean Paul Rabanal</description>
+    <title>pecuniary on Academic</title>
+    <link>/tags/pecuniary/</link>
+    <description>Recent content in pecuniary on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018   JP Rabanal</copyright>
+    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 09 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/pecuniary/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/pecuniary/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>An experiment on the efficiency of bilateral exchange when markets are incomplete</title>
-      <link>https://rabsjp.github.io/project/pecuniary/</link>
+      <title>Can successful forecasters help stabilize asset prices in a learning to forecast experiment?</title>
+      <link>/project/forecasting/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://rabsjp.github.io/project/pecuniary/</guid>
-      <description>&lt;p&gt;We test in a controlled laboratory environment whether traders in a bilateral ex- change internalize the impact of their actions on market prices better than in a large market. In this model, traders choose asset holdings, constrained by a technology frontier. Next, each trader experiences a random shock which makes only one type of asset profitable. In a general equilibrium environment with incomplete markets, this leads to pecuniary externalities because traders increase scarce asset holdings beyond what is socially optimal. This behavior is especially exacerbated in large experimen- tal markets as traders fail to internalize the impact of their actions on prices. We find that when markets are incomplete, a bilateral exchange can slightly mitigate the extent of pecuniary externalities, and weakly increase welfare.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ekm8wwmhgjted0h/Pecuniary.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/project/forecasting/</guid>
+      <description>We conduct a Learning to Forecast asset pricing experiment where the market impact of individual forecasts evolves endogenously based on the forecasters&amp;rsquo; past accuracy. We investigate how endogenous impacts affect price stability and mispricing relative to the fundamental price. Our results suggest that endogenous impacts can destabilize markets when impacts are quite sensitive to forecast accuracy: Price dispersion increases compared to the baseline treatment where impacts are constant and independent of forecast accuracy.</description>
     </item>
     
   </channel>
