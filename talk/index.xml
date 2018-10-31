@@ -1,41 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Jean Paul Rabanal</title>
-    <link>https://rabsjp.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Jean Paul Rabanal</description>
+    <title>Recent &amp; Upcoming Talks on Academic</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018   JP Rabanal</copyright>
+    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>On the prevalence of uncertainty traps</title>
-      <link>https://rabsjp.github.io/talk/sef/</link>
-      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/talk/sef/</guid>
-      <description></description>
-    </item>
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Forecasting games</title>
-      <link>https://rabsjp.github.io/talk/liberal/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/talk/liberal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pecuniary Externalities</title>
-      <link>https://rabsjp.github.io/talk/seminar/</link>
-      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/talk/seminar/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -1,59 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Jean Paul Rabanal</title>
-    <link>https://rabsjp.github.io/publication/</link>
-    <description>Recent content in Publications on Jean Paul Rabanal</description>
+    <title>Publications on Academic</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018   JP Rabanal</copyright>
-    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-    <item>
-      <title>Does competition aggravate moral hazard? A multi-principal-agent experiment, Journal of Financial Intermediation, Forthcoming, 2017</title>
-      <link>https://rabsjp.github.io/publication/principalagent/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/principalagent/</guid>
-      <description></description>
-    </item>
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>On the dynamic stability of a price dispersion model using gradient dynamics, Journal of Economic Dynamics and Control, Forthcoming, 2017</title>
-      <link>https://rabsjp.github.io/publication/pricedispersion/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/pricedispersion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Does competition affect truth-telling? An experiment with rating agencies</title>
-      <link>https://rabsjp.github.io/publication/cra/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/cra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the evolution of continuous types: replicator and gradient, Dynamic Games and Applications, Vol. 7(1), pp. 76--92, 2017.</title>
-      <link>https://rabsjp.github.io/publication/repgrad/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/repgrad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolution of markets a simulation with centralized, posted offer and decentralized formats Journal of Evolutionary Economics, Forthcoming, 2016</title>
-      <link>https://rabsjp.github.io/publication/markets/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/markets/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

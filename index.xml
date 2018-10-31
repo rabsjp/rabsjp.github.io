@@ -1,98 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jean Paul Rabanal on Jean Paul Rabanal</title>
-    <link>https://rabsjp.github.io/</link>
-    <description>Recent content in Jean Paul Rabanal on Jean Paul Rabanal</description>
+    <title>Academic on Academic</title>
+    <link>/</link>
+    <description>Recent content in Academic on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018   JP Rabanal</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>On the prevalence of uncertainty traps</title>
-      <link>https://rabsjp.github.io/talk/sef/</link>
-      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/talk/sef/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forecasting games</title>
-      <link>https://rabsjp.github.io/talk/liberal/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/talk/liberal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pecuniary Externalities</title>
-      <link>https://rabsjp.github.io/talk/seminar/</link>
-      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/talk/seminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Does competition aggravate moral hazard? A multi-principal-agent experiment, Journal of Financial Intermediation, Forthcoming, 2017</title>
-      <link>https://rabsjp.github.io/publication/principalagent/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/principalagent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the dynamic stability of a price dispersion model using gradient dynamics, Journal of Economic Dynamics and Control, Forthcoming, 2017</title>
-      <link>https://rabsjp.github.io/publication/pricedispersion/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/pricedispersion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An experiment on the efficiency of bilateral exchange when markets are incomplete</title>
-      <link>https://rabsjp.github.io/project/pecuniary/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/project/pecuniary/</guid>
-      <description>&lt;p&gt;We test in a controlled laboratory environment whether traders in a bilateral ex- change internalize the impact of their actions on market prices better than in a large market. In this model, traders choose asset holdings, constrained by a technology frontier. Next, each trader experiences a random shock which makes only one type of asset profitable. In a general equilibrium environment with incomplete markets, this leads to pecuniary externalities because traders increase scarce asset holdings beyond what is socially optimal. This behavior is especially exacerbated in large experimen- tal markets as traders fail to internalize the impact of their actions on prices. We find that when markets are incomplete, a bilateral exchange can slightly mitigate the extent of pecuniary externalities, and weakly increase welfare.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ekm8wwmhgjted0h/Pecuniary.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Does competition affect truth-telling? An experiment with rating agencies</title>
-      <link>https://rabsjp.github.io/publication/cra/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/cra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the evolution of continuous types: replicator and gradient, Dynamic Games and Applications, Vol. 7(1), pp. 76--92, 2017.</title>
-      <link>https://rabsjp.github.io/publication/repgrad/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/repgrad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolution of markets a simulation with centralized, posted offer and decentralized formats Journal of Evolutionary Economics, Forthcoming, 2016</title>
-      <link>https://rabsjp.github.io/publication/markets/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/markets/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
