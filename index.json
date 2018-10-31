@@ -100,7 +100,7 @@
     "publishdate": "2017-05-09T00:00:00Z",
     "relpermalink": "/project/inout/",
     "section": "project",
-    "summary": "We conduct a laboratory experiment to study individual market entry and exit decisions under varying levels of uncertainty. In our environment, when a player enters the market, she selects a risky strategy. The information about the risky payoff is available only when this option is exercised in the baseline treatment. To control for possible exploration effects, we include a counterfactual treatment with information on forgone payoffs. We find that subjects exit the market at significantly higher rates when counterfactual information is provided. This suggests that, under certain conditions, uncertainty can lead to shorter spells of inactivity and therefore shorter recessions.",
+    "summary": "We conduct a laboratory experiment to study individual market entry and exit decisions under varying levels of uncertainty. In our environment, when a player enters the market, she selects a risky strategy. We find that subjects exit the market at significantly higher rates when counterfactual information is provided.",
     "tags": [
       "entry and exit"
     ],
