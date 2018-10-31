@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
+    <title>Tags on JP Rabanal</title>
     <link>https://rabsjp.github.io/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <description>Recent content in Tags on JP Rabanal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>pecuniary</title>
-      <link>https://rabsjp.github.io/tags/pecuniary/</link>
+      <title>entry and exit</title>
+      <link>https://rabsjp.github.io/tags/entry-and-exit/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://rabsjp.github.io/tags/pecuniary/</guid>
+      <guid>https://rabsjp.github.io/tags/entry-and-exit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forecasting</title>
+      <link>https://rabsjp.github.io/tags/forecasting/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rabsjp.github.io/tags/forecasting/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Academic</title>
+    <title>Projects on JP Rabanal</title>
     <link>https://rabsjp.github.io/project/</link>
-    <description>Recent content in Projects on Academic</description>
+    <description>Recent content in Projects on JP Rabanal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -28,6 +28,15 @@
       
       <guid>https://rabsjp.github.io/project/forecasting/</guid>
       <description>We conduct a Learning to Forecast asset pricing experiment where the market impact of individual forecasts evolves endogenously based on the forecasters&amp;rsquo; past accuracy. We investigate how endogenous impacts affect price stability and mispricing relative to the fundamental price. Our results suggest that endogenous impacts can destabilize markets when impacts are quite sensitive to forecast accuracy: Price dispersion increases compared to the baseline treatment where impacts are constant and independent of forecast accuracy.</description>
+    </item>
+    
+    <item>
+      <title>In out game</title>
+      <link>https://rabsjp.github.io/project/inout/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rabsjp.github.io/project/inout/</guid>
+      <description>PDF</description>
     </item>
     
   </channel>

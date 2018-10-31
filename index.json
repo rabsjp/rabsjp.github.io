@@ -81,9 +81,30 @@
     "section": "project",
     "summary": "We conduct a Learning to Forecast asset pricing experiment where the market impact of individual forecasts evolves endogenously based on the forecasters past accuracy.",
     "tags": [
-      "pecuniary"
+      "forecasting"
     ],
     "title": "Can successful forecasters help stabilize asset prices in a learning to forecast experiment?",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "PDF\n",
+    "date": 1494288000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1494288000,
+    "objectID": "665b3358dff6ddb0b57117a9ae779e30",
+    "permalink": "https://rabsjp.github.io/project/inout/",
+    "publishdate": "2017-05-09T00:00:00Z",
+    "relpermalink": "/project/inout/",
+    "section": "project",
+    "summary": "We conduct a laboratory experiment to study individual market entry and exit decisions under varying levels of uncertainty. In our environment, when a player enters the market, she selects a risky strategy. The information about the risky payoff is available only when this option is exercised in the baseline treatment. To control for possible exploration effects, we include a counterfactual treatment with information on forgone payoffs. We find that subjects exit the market at significantly higher rates when counterfactual information is provided. This suggests that, under certain conditions, uncertainty can lead to shorter spells of inactivity and therefore shorter recessions.",
+    "tags": [
+      "entry and exit"
+    ],
+    "title": "In out game",
     "type": "project"
   },
   {

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forecasting on JP Rabanal</title>
+    <link>https://rabsjp.github.io/tags/forecasting/</link>
+    <description>Recent content in forecasting on JP Rabanal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 09 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rabsjp.github.io/tags/forecasting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can successful forecasters help stabilize asset prices in a learning to forecast experiment?</title>
+      <link>https://rabsjp.github.io/project/forecasting/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rabsjp.github.io/project/forecasting/</guid>
+      <description>We conduct a Learning to Forecast asset pricing experiment where the market impact of individual forecasts evolves endogenously based on the forecasters&amp;rsquo; past accuracy. We investigate how endogenous impacts affect price stability and mispricing relative to the fundamental price. Our results suggest that endogenous impacts can destabilize markets when impacts are quite sensitive to forecast accuracy: Price dispersion increases compared to the baseline treatment where impacts are constant and independent of forecast accuracy.</description>
+    </item>
+    
+  </channel>
+</rss>
