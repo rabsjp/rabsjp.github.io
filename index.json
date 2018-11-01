@@ -2,7 +2,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "We test in a controlled laboratory environment whether traders in a bilateral ex- change internalize the impact of their actions on market prices better than in a large market. In this model, traders choose asset holdings, constrained by a technology frontier. Next, each trader experiences a random shock which makes only one type of asset profitable. In a general equilibrium environment with incomplete markets, this leads to pecuniary externalities because traders increase scarce asset holdings beyond what is socially optimal. This behavior is especially exacerbated in large experimen- tal markets as traders fail to internalize the impact of their actions on prices. We find that when markets are incomplete, a bilateral exchange can slightly mitigate the extent of pecuniary externalities, and weakly increase welfare.\nPDF\n",
+    "content": "",
     "date": 1540944000,
     "expirydate": -62135596800,
     "kind": "page",
@@ -102,7 +102,7 @@
     "section": "project",
     "summary": "We conduct a laboratory experiment to study individual market entry and exit decisions under varying levels of uncertainty. In our environment, when a player enters the market, she selects a risky strategy. We find that subjects exit the market at significantly higher rates when counterfactual information is provided.",
     "tags": [
-      "entry and exit"
+      "entry"
     ],
     "title": "In out game",
     "type": "project"
