@@ -1,24 +1,26 @@
 [
   {
-    "authors": null,
+    "authors": [
+      "JP Rabanal",
+      "OA Rud",
+      "M Sharifova"
+    ],
     "categories": null,
-    "content": "We test whether decentralized markets mitigate pecuniary externalities in a model with incomplete markets and no aggregrate uncertainty.\nPDF\n",
-    "date": 1540944000,
+    "content": "",
+    "date": 1548979200,
     "expirydate": -62135596800,
     "kind": "page",
     "lang": "en",
-    "lastmod": 1540944000,
-    "objectID": "b91db2fbf54fd4b024e382103013cef2",
-    "permalink": "https://rabsjp.github.io/project/pecuniary/",
-    "publishdate": "2018-10-31T00:00:00Z",
-    "relpermalink": "/project/pecuniary/",
-    "section": "project",
-    "summary": "We test whether decentralized markets mitigate pecuniary externalities",
-    "tags": [
-      "pecuniary externalities"
-    ],
-    "title": "Pecuniary Externalities in centralized and decentralized markets",
-    "type": "project"
+    "lastmod": 1548979200,
+    "objectID": "a55b0b6074f98c63eb490a08d9393213",
+    "permalink": "https://rabsjp.github.io/publication/pecuniary/",
+    "publishdate": "2019-02-01T00:00:00Z",
+    "relpermalink": "/publication/pecuniary/",
+    "section": "publication",
+    "summary": "We test whether decentralized markets mitigate pecuniary externalities in a model with incomplete markets and no aggregrate uncertainty.",
+    "tags": null,
+    "title": "An experiment on the efficiency of bilateral exchange under incomplete markets",
+    "type": "publication"
   },
   {
     "authors": [

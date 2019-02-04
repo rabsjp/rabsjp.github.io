@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rabsjp.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Pecuniary Externalities in centralized and decentralized markets</title>
-      <link>https://rabsjp.github.io/project/pecuniary/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/project/pecuniary/</guid>
-      <description>We test whether decentralized markets mitigate pecuniary externalities in a model with incomplete markets and no aggregrate uncertainty.
-PDF</description>
-    </item>
     
     <item>
       <title>Can successful forecasters help stabilize asset prices in a learning to forecast experiment?</title>
