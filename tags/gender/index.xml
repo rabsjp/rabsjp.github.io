@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gender on JP Rabanal</title>
+    <link>https://rabsjp.github.io/tags/gender/</link>
+    <description>Recent content in gender on JP Rabanal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 09 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rabsjp.github.io/tags/gender/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gender differences in an endogenous timing conflict game</title>
+      <link>https://rabsjp.github.io/project/conflict/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rabsjp.github.io/project/conflict/</guid>
+      <description>We conduct a laboratory experiment to study the role of gender on social welfare outcomes in a strategic commitment game of incomplete information. In our baseline treatment, players simultaneously commit to either a Hawkish action, which leads to a private payoff, or a Dovish action, which can enhance social welfare. We add a sequential and an endogenous move treatment, where in the former, the first mover is exogenously selected and in the latter, players self-select the order of play.</description>
+    </item>
+    
+  </channel>
+</rss>
