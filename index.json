@@ -70,7 +70,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "We conduct a Learning to Forecast asset pricing experiment where the market impact of individual forecasts evolves endogenously based on the forecasters\u0026rsquo; past accuracy. We investigate how endogenous impacts affect price stability and mispricing relative to the fundamental price. Our results suggest that endogenous impacts can destabilize markets when impacts are quite sensitive to forecast accuracy: Price dispersion increases compared to the baseline treatment where impacts are constant and independent of forecast accuracy. On the other hand, mispricing can be reduced when markets are relatively stable and impacts are moderately sensitive to forecast accuracy.\nPDF\n",
+    "content": "We conduct a Learning to Forecast asset pricing experiment where the market impact of individual forecasts evolves endogenously based on the forecasters\u0026rsquo; past accuracy. We investigate how endogenous impacts affect price stability and mispricing relative to the fundamental price. Our results suggest that endogenous impacts can destabilize markets when impacts are quite sensitive to forecast accuracy: Price dispersion increases compared to the baseline treatment where impacts are constant and independent of forecast accuracy. On the other hand, mispricing can be reduced when markets are relatively stable and impacts are moderately sensitive to forecast accuracy.\nPDF\nETF\n",
     "date": 1494288000,
     "expirydate": -62135596800,
     "kind": "page",
