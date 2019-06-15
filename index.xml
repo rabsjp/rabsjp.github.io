@@ -1,106 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JP Rabanal on JP Rabanal</title>
-    <link>https://rabsjp.github.io/</link>
-    <description>Recent content in JP Rabanal on JP Rabanal</description>
+    <title>Academic on Academic</title>
+    <link>/</link>
+    <description>Recent content in Academic on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>An experiment on the efficiency of bilateral exchange under incomplete markets, Games and Economic Behavior, 2019</title>
-      <link>https://rabsjp.github.io/publication/pecuniary/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/pecuniary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Does competition aggravate moral hazard? A multi-principal-agent experiment, Journal of Financial Intermediation, 2018</title>
-      <link>https://rabsjp.github.io/publication/principalagent/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/principalagent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the dynamic stability of a price dispersion model using gradient dynamics, Journal of Economic Dynamics and Control, 2017</title>
-      <link>https://rabsjp.github.io/publication/pricedispersion/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/pricedispersion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can successful forecasters help stabilize asset prices in a learning to forecast experiment?</title>
-      <link>https://rabsjp.github.io/project/forecasting/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/project/forecasting/</guid>
-      <description>&lt;p&gt;We conduct a Learning to Forecast asset pricing experiment where the market impact of individual forecasts evolves endogenously based on the forecasters&amp;rsquo; past accuracy. We investigate how endogenous impacts affect price stability and mispricing relative to the fundamental price. Our results suggest that endogenous impacts can destabilize markets when impacts are quite sensitive to forecast accuracy: Price dispersion increases compared to the baseline treatment where impacts are constant and independent of forecast accuracy. On the other hand, mispricing can be reduced when markets are relatively stable and impacts are moderately sensitive to forecast accuracy.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/viewer?a=v&amp;amp;pid=sites&amp;amp;srcid=ZGVmYXVsdGRvbWFpbnxkYXZpZGtvcGFueWl8Z3g6NGVlZTYyYWI1ZTMxNjg0YQ&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/dyrkqg3qvkgkcbz/etf_duffyrabrud_short.html?dl=0&#34; target=&#34;_blank&#34;&gt;ETF&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Gender differences in an endogenous timing conflict game</title>
-      <link>https://rabsjp.github.io/project/conflict/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/project/conflict/</guid>
-      <description>&lt;p&gt;We conduct a laboratory experiment to study the role of gender on social welfare outcomes in a strategic commitment game of incomplete information. In our baseline treatment, players simultaneously commit to either a Hawkish action, which leads to a private payoff, or a Dovish action, which can enhance social welfare. We add a sequential and an endogenous move treatment, where in the former, the first mover is exogenously selected and in the latter, players self-select the order of play. The two additional treatments relax the commitment constraint for the second mover. We find that (i) social welfare is significantly improved in the last two treatments and (ii) the outcome in the endogenous move treatment is mainly driven by gender. Men are willing to play the risky Dovish action more often than women.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/knkti89g51zp17x/manuscriptconfgen.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>In out game</title>
-      <link>https://rabsjp.github.io/project/inout/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/project/inout/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/xcn74zha5o5heed/Inoutgame.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/cmn39gfe9klddkh/inoutppt.html?dl=0&#34; target=&#34;_blank&#34;&gt;PPT&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Does competition affect truth-telling? An experiment with rating agencies, 2018</title>
-      <link>https://rabsjp.github.io/publication/cra/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/cra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the evolution of continuous types: replicator and gradient, Dynamic Games and Applications, Vol. 7(1), pp. 76--92, 2017.</title>
-      <link>https://rabsjp.github.io/publication/repgrad/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/repgrad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolution of markets a simulation with centralized, posted offer and decentralized formats Journal of Evolutionary Economics, 2018</title>
-      <link>https://rabsjp.github.io/publication/markets/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/publication/markets/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
