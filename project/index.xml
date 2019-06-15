@@ -18,7 +18,7 @@
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://rabsjp.github.io/project/forecasting/</guid>
-      <description>We conduct a Learning to Forecast asset pricing experiment where the market impact of individual forecasts evolves endogenously based on the forecasters&amp;rsquo; past accuracy. We investigate how endogenous impacts affect price stability and mispricing relative to the fundamental price. Our results suggest that endogenous impacts can destabilize markets when impacts are quite sensitive to forecast accuracy: Price dispersion increases compared to the baseline treatment where impacts are constant and independent of forecast accuracy.</description>
+      <description>We conduct a Learning to Forecast asset pricing experiment where the market impact of individual forecasts evolves endogenously based on the forecasters past accuracy.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://rabsjp.github.io/project/conflict/</guid>
-      <description>We conduct a laboratory experiment to study the role of gender on social welfare outcomes in a strategic commitment game of incomplete information. In our baseline treatment, players simultaneously commit to either a Hawkish action, which leads to a private payoff, or a Dovish action, which can enhance social welfare. We add a sequential and an endogenous move treatment, where in the former, the first mover is exogenously selected and in the latter, players self-select the order of play.</description>
+      <description>We conduct a laboratory experiment to study the role of gender on social welfare outcomes in a strategic commitment game of incomplete information. The outcome in the endogenous move treatment is mainly driven by gender. Men are willing to play the risky Dovish action more often than women.</description>
     </item>
     
     <item>
@@ -36,8 +36,7 @@
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://rabsjp.github.io/project/inout/</guid>
-      <description>PDF
-PPT</description>
+      <description>We design an experiment in which subjects decide between a risky option that evolves according to an autoregressive process, or a risk-free investment. The treatments vary the information displayed of the risky investment after players opted for the risk-free alternative. In the public information treatment, which captures the information structure of index funds, subjects stay longer out of the risky market, compared to the private information environment, present in private equity. This different behavior across treatments can be explained by the demand for information, which overcomes risk aversion.</description>
     </item>
     
   </channel>
