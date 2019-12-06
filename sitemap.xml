@@ -105,6 +105,14 @@
     
     <url>
     
+      <loc>https://rabsjp.github.io/project/etfs/</loc>
+      <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rabsjp.github.io/tags/conflict-game/</loc>
       <lastmod>2017-05-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -132,6 +140,30 @@
     
     <url>
     
+      <loc>https://rabsjp.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rabsjp.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rabsjp.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rabsjp.github.io/publication/cra/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -142,30 +174,6 @@
     
       <loc>https://rabsjp.github.io/publication/repgrad/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rabsjp.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rabsjp.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rabsjp.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
     </url>
     
   

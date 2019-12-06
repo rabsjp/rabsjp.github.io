@@ -21,5 +21,14 @@
       <description>We design an experiment in which subjects decide between a risky option that evolves according to an autoregressive process, or a risk-free investment. The treatments vary the information displayed of the risky investment after players opted for the risk-free alternative. In the public information treatment, which captures the information structure of index funds, subjects stay longer out of the risky market, compared to the private information environment, present in private equity. This different behavior across treatments can be explained by the demand for information, which overcomes risk aversion.</description>
     </item>
     
+    <item>
+      <title>The impact of ETFs</title>
+      <link>https://rabsjp.github.io/project/etfs/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rabsjp.github.io/project/etfs/</guid>
+      <description>We examine how exchange traded funds (ETFs) affect asset pricing, volatility and trade volume in a laboratory asset market. We consider markets with zero or negative correlations in asset returns and the presence or absence of composite ETF assets.  We find that when the returns on assets are negatively correlated, the presence of an ETF asset reduces mispricing and price volatility without decreasing trading volume.  In the case where returns have zero correlation, the ETF asset has no impact. Thus, our findings suggest that ETFs do not harm, and may in fact improve, price discovery and liquidity in asset markets..</description>
+    </item>
+    
   </channel>
 </rss>
