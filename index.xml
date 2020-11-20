@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>An endogenous-timing conflict game</title>
+      <link>https://rabsjp.github.io/publication/conflict/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rabsjp.github.io/publication/conflict/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An experiment on the efficiency of bilateral exchange under incomplete markets, Games and Economic Behavior, 2019</title>
@@ -52,18 +61,6 @@
       
       <guid>https://rabsjp.github.io/project/portfolio/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564208https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564208&#34; target=&#34;_blank&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Gender differences in an endogenous timing conflict game</title>
-      <link>https://rabsjp.github.io/project/conflict/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/project/conflict/</guid>
-      <description>&lt;p&gt;We conduct a laboratory experiment to study the role of gender on social welfare outcomes in a strategic commitment game of incomplete information. In our baseline treatment, players simultaneously commit to either a Hawkish action, which leads to a private payoff, or a Dovish action, which can enhance social welfare. We add a sequential and an endogenous move treatment, where in the former, the first mover is exogenously selected and in the latter, players self-select the order of play. The two additional treatments relax the commitment constraint for the second mover. We find that (i) social welfare is significantly improved in the last two treatments and (ii) the outcome in the endogenous move treatment is mainly driven by gender. Men are willing to play the risky Dovish action more often than women.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/knkti89g51zp17x/manuscriptconfgen.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
