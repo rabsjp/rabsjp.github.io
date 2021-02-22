@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Market reaction to splits</title>
+      <link>https://rabsjp.github.io/project/splits/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rabsjp.github.io/project/splits/</guid>
+      <description>We report on an experiment studying how traders react to stock splits and reverse splits. In the first environment, two assets have increasing fundamental values, and one asset is subject to a 2-for-1 share split while the other is not. In the second environment, the fundamental values of both assets are decreasing, and one asset is subject to a 1-for-2 reverse split while the other is not. We find that share prices do not fully adjust to changes in fundamental values per share in the aftermath of both splits and we relate this phenomenon to difficulties with proportional thinking.</description>
+    </item>
+    
+    <item>
       <title>The impact of ETFs</title>
       <link>https://rabsjp.github.io/project/etfs/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
