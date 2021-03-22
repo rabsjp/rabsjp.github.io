@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Dynamic Portfolio choice</title>
-      <link>https://rabsjp.github.io/project/portfolio/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rabsjp.github.io/project/portfolio/</guid>
-      <description>This paper uses non-parametric methods to study the efficiency (Dybvig, 1988 and Post, 2003) and risk-profiles (Varian, 1988) of dynamic portfolio choices. We design an experiment which varies the number of states (complexity), and includes an equivalent static Arrow-Debreu problem. The results suggest that increasing complexity, lower cognitive ability and a static environment reduce efficiency. In the dynamic task, we find that some efficiency losses are driven by a form of stop-loss strategy. Further, our results suggest that a representative agent exhibits decreasing absolute risk aversion and constant relative risk aversion, despite significant individual heterogeneity.</description>
-    </item>
-    
-    <item>
       <title>In out game</title>
       <link>https://rabsjp.github.io/project/inout/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
